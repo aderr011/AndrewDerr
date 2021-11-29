@@ -101,7 +101,7 @@ a{
 }
 
 #title-page{
-    background-image: url("../images/background.jpeg");
+    background-image: url("../background.jpeg");
     background-position: center right;
     margin-bottom: 30px;
     min-height:300px;
